@@ -249,6 +249,14 @@ MsgSend return status: 0
 
 # Output
 
+### Server
+
+![alt text](Server.png)
+
+### Client
+
+![alt text](Client.png)
+
 ---
 
 # Result
