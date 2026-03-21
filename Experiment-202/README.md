@@ -251,6 +251,8 @@ main, exiting
 
 # Output
 
+![alt text](Output.png)
+
 ---
 
 # Result
